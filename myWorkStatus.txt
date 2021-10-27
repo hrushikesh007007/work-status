@@ -1,0 +1,10 @@
+work status from 18/10/21-22/10/21:
+	-downloaded a new admin-react-node template and changed the back-end services and queries from mongodb to postgres.
+	-written code for creating postgres tables with help of ER digs sent by balraj sir.
+	-helped padmaja ma'am in changing some content of database.
+	-learned some basics of python.
+work status of present week:
+25/10/21-helped padmaja ma'am by making changes in numbers to marathi words code.
+25/10/21-changed front-end and back-end code of dashboard as there were some changes in users table.
+26/10/21-added some test data in users and roles table.
+27/10/21-implemented user management routes in front-end and services in back-end and written code to create new user.
