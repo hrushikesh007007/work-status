@@ -26,11 +26,11 @@
 	
 4.Mobile Application  (Property Tax)
     
-    -- Added The some new Fields in Application, as for client request. (fields Are working good).
+    -- Added The some new Fields in Application, as for client request. (Fields Are working well).
 
 	 
 5. inventory management Application 
      
-	 I build the Small inventory management system with php & mysql.
+	 I build the Small inventory management Application  with php & mysql.
      
 6.	Given hardware technical support in the office.
