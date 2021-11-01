@@ -1,0 +1,36 @@
+1/10/2021 to 31/10/2021 Work status 
+
+1. KLM Website https://klmflexipack.com/
+
+    -- I resolved the website issue.
+
+    -- Kiran Sir and I have modified the website database.
+
+2. Technowell WebSite 
+
+    -- I have updated the Technowel website.
+    -- Added some new content.
+    -- wrote the code to make the contact form work ( now technowell website Contact form working well ).
+
+3.Deori Application 
+
+    -- helped Padmaja ma'am in Deori application.
+
+    -- I assisted Padmaja ma'am in Genarating some Tax files.
+
+    -- setup the xampp Server in Anil Sir Sysytem And also Given trining.
+
+    -- Setup the Xampp Server in (Deori) Municipal Council System  And also Given trining.
+	
+	-- setup the pgsql4 Server in Anil Sir Office Systems. 
+	
+4.Mobile Application  (Property Tax)
+    
+	-- Added The some new Fields in Application, as for client request. (fields Are working good).
+
+	 
+5. inventory management Application 
+     
+	 I build the Small inventory management system with php & mysql.
+     
+6.	Given hardware technical support in the office.
