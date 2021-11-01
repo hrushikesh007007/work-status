@@ -1,0 +1,28 @@
+In before last week:
+
+1.Created and designed Taxbill webpage using HTML,CSS,BootStrap (padmaja madam).
+2.creating Todolist using reactjs.
+3.learned some topics of reactJs
+
+
+In last week:
+                        FOR CREATING ONLINE SHOPPING APPILICATION
+
+1.create the react app
+2.creating files and importing
+3.useState
+4.functions of useState
+5.Reactstrap
+6.Container,Row,col,DropdownItem,DropdownToggle,DropdownMenu,UncontrolledButtonDropdown
+7.maping
+8.key
+9.JSX Attributies
+10.Tables
+11.buttons
+12.CSS {hover,margin,padding,border,....}
+
+In this week:
+
+1.created a new files in Online Shopping Appilication.
+2.Used some Reactstrap properties.
+3.Used React-Route-dom method to link all files.
