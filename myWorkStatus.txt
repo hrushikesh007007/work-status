@@ -1,0 +1,35 @@
+             making a online project given by hrushikesh
+        ===================================================
+
+to require this projest i hv learnet few basics of react js
+
+note:mentioned below topics are covered in last week
+
+1. props concept
+
+2. usestate
+
+3. few css concept like box model and 
+
+4. map
+
+5. how to use css in react js
+
+6. props destructuring
+
+7. little bit about class componet
+
+8. setState() method
+
+9. routing,
+
+10. single page application
+
+============================================
+
+1/11/2021
+=============
+1. learning some miscellaneous concept for "ADD TO CART"
+
+ 
+
