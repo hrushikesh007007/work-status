@@ -1,0 +1,23 @@
+ work sheet(01/10/2021 to 31/10/2021)			
+SNO	Topic	Status	Remarks
+1	Page life cycle on .net	Completed	
+2	State management	Completed	
+Windows application			
+3	create windows aplication	Completed	
+4	sceen Design for windows form	Completed	
+5	Database connectivity	Completed	
+6	Crud operations 	Completed	Data Update operation pending 
+7	Binding the Saved data into data gridview	Completed	
+8	Data gridview data (Export TO PDF)	Completed	
+9	Data gridview data (Export TO CSV)	Completed	
+10	Creating setup file	Completed	
+			
+Web Application (18/10/2021 to 30/10/2021)			
+1	Creating we application in .net framework	Completed	
+2	Crud operation in web aapplication	Completed	
+3	Binding the data into data tables	Completed	
+4	Ajax Request	Completed	
+5	Html page design	Completed	
+6	Arka admin login	Completed	
+7	Display appointment info 	Completed	
+8	Display Contactus info 	Completed	
