@@ -21,12 +21,12 @@
     -- setup the xampp Server in Anil Sir Sysytem And also Given trining.
 
     -- Setup the Xampp Server in (Deori) Municipal Council System  And also Given trining.
-	
-	-- setup the pgsql4 Server in Anil Sir Office Systems. 
+    
+    -- setup the pgsql4 Server in Anil Sir Office Systems. 
 	
 4.Mobile Application  (Property Tax)
     
-	-- Added The some new Fields in Application, as for client request. (fields Are working good).
+    -- Added The some new Fields in Application, as for client request. (fields Are working good).
 
 	 
 5. inventory management Application 
