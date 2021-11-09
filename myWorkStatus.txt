@@ -1,0 +1,28 @@
+work status from 18/10/21-22/10/21:
+	-downloaded a new admin-react-node template and changed the back-end services and queries from mongodb to postgres.
+	-written code for creating postgres tables with help of ER digs sent by balraj sir.
+	-helped padmaja ma'am in changing some content of database.
+	-learned some basics of python.
+
+work status from 25/10/21-30/10/21 week:
+25/10/21-helped padmaja ma'am by making changes in numbers to marathi words code.
+25/10/21-changed front-end and back-end code of dashboard as there were some changes in users table.
+26/10/21-added some test data in users and roles table.
+27/10/21-implemented user management routes in front-end and services in back-end and written code to create new user.
+28/10/21-connected with kiran sir and added user management module(only visible for admin) where admin can create users.
+29-10-21-connected with balraj sir, changed the UI of admin template as instructed and added team management, role management modules. 
+30-10-21-created tables for team manag, grouped users based on their role and added delete functionality to it. 
+
+work status from 01/11/21-06/10/21 week:
+01-11-21-moved to dashboard and added arcgis map with feature table using @arcgis/core.
+02-11-21-implemented dashboard configuration and in admin and implemented map configuration where user can add his own webmap with selected features to display.
+03-11-21-developed functional configuration where admin can assign functionalities to a role.
+05-11-21-moved to super admin and developed client management page where super admin can bind client to sector.
+06-11-21-developed sector management page where super admin can create sectors and also functionalities and can bind to created sector   
+
+work status from 08/11/21-13/11/21 week:
+08-11-21-devepoled filtering of tables using sectors in func config and sector management
+09-11-21-developed UI for auto deployment page added form for aws platform and added list of functionalities to dashboard. 
+10-11-21-
+11-11-21-
+12-11-21-
