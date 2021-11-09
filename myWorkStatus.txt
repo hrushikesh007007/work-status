@@ -3,7 +3,6 @@ work status from 18/10/21-22/10/21:
 	-written code for creating postgres tables with help of ER digs sent by balraj sir.
 	-helped padmaja ma'am in changing some content of database.
 	-learned some basics of python.
-
 work status from 25/10/21-30/10/21 week:
 25/10/21-helped padmaja ma'am by making changes in numbers to marathi words code.
 25/10/21-changed front-end and back-end code of dashboard as there were some changes in users table.
