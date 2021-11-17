@@ -22,6 +22,14 @@ work status from 01/11/21-06/10/21 week:
 work status from 08/11/21-13/11/21 week:
 08-11-21-devepoled filtering of tables using sectors in func config and sector management
 09-11-21-developed UI for auto deployment page added form for aws platform and added list of functionalities to dashboard. 
-10-11-21-
-11-11-21-
-12-11-21-
+10-11-21-added list of functionalities assigned by admin to dashboard user and also written respective routes. 
+11-11-21-connected to balraj sir and discussed some changes in application and implemented the changes in dashboard map.
+12-11-21-popup was not working for some webmaps, solved that issue and added attachments column in feature table.
+
+work status from 15/11/21-20/11/21 week:
+15-11-21-added a 3d trees map and charts map to dashboard and build that file, connected to kiran sir for solving issues.
+16-11-21-connected to balraj sir and started learning arcgis api for python.
+17-11-21-
+18-11-21-
+19-11-21-
+20-11-21-
