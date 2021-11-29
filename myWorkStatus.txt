@@ -29,7 +29,14 @@ work status from 08/11/21-13/11/21 week:
 work status from 15/11/21-20/11/21 week:
 15-11-21-added a 3d trees map and charts map to dashboard and build that file, connected to kiran sir for solving issues.
 16-11-21-connected to balraj sir and started learning arcgis api for python.
-17-11-21-
-18-11-21-
-19-11-21-
-20-11-21-
+17-11-21-learned basics of pandas and explained some concepts to trainees
+18-11-21-learned basics of numpy and cleared some doubts of trainees.
+19-11-21-learned data engineering concepts in arcgis api for python.
+20-11-21-watched some tutorials of data engineering and read an article sent by balraj sir.
+
+work status from 22/11/21-26/11/21 week:
+22-11-21-learned spatially enabled data frames of arcgis api for python.
+23-11-21-made some sample webmaps and feature layers in organization arcgis account. 
+24-11-21-and connected to those maps programatically and extracted data frames from tables of feature layers.
+25-11-21-added functionality to create admin users in super admin and also now super admin can approve admin users as well as admin can approve dashboard users.
+26-11-21-made some changes to application as requested by balraj sir. and connected with balraj sir and kiran sir for deploying application.
