@@ -31,5 +31,8 @@ note:mentioned below topics are covered in last week
 =============
 1. learning some miscellaneous concept for "ADD TO CART"
 
- 
+4	curd operation 					13-11-21	27-11-15(i had to learn some more concept to finish the task thats why it took more time)	
+5	form validation					27-11-21	30-11-21	
+6	Naveen sir assinment					1-12-21	2-12-21	
+7	events					       3-12-21	going on	
 
