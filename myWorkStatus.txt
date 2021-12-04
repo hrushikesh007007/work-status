@@ -1,50 +1,26 @@
-work status from 18/10/21-22/10/21:
-	-downloaded a new admin-react-node template and changed the back-end services and queries from mongodb to postgres.
-	-written code for creating postgres tables with help of ER digs sent by balraj sir.
-	-helped padmaja ma'am in changing some content of database.
-	-learned some basics of python.
-work status from 25/10/21-30/10/21 week:
-25/10/21-helped padmaja ma'am by making changes in numbers to marathi words code.
-25/10/21-changed front-end and back-end code of dashboard as there were some changes in users table.
-26/10/21-added some test data in users and roles table.
-27/10/21-implemented user management routes in front-end and services in back-end and written code to create new user.
-28/10/21-connected with kiran sir and added user management module(only visible for admin) where admin can create users.
-29-10-21-connected with balraj sir, changed the UI of admin template as instructed and added team management, role management modules. 
-30-10-21-created tables for team manag, grouped users based on their role and added delete functionality to it. 
 
-work status from 01/11/21-06/10/21 week:
-01-11-21-moved to dashboard and added arcgis map with feature table using @arcgis/core.
-02-11-21-implemented dashboard configuration and in admin and implemented map configuration where user can add his own webmap with selected features to display.
-03-11-21-developed functional configuration where admin can assign functionalities to a role.
-05-11-21-moved to super admin and developed client management page where super admin can bind client to sector.
-06-11-21-developed sector management page where super admin can create sectors and also functionalities and can bind to created sector   
+24-11-2021(wednesday) to 26-11-2021(friday)
 
-work status from 08/11/21-13/11/21 week:
-08-11-21-devepoled filtering of tables using sectors in func config and sector management
-09-11-21-developed UI for auto deployment page added form for aws platform and added list of functionalities to dashboard. 
-10-11-21-added list of functionalities assigned by admin to dashboard user and also written respective routes. 
-11-11-21-connected to balraj sir and discussed some changes in application and implemented the changes in dashboard map.
-12-11-21-popup was not working for some webmaps, solved that issue and added attachments column in feature table.
+24-11-2021 learn the ES6 features like(classes,arrow function,let,const)
 
-work status from 15/11/21-20/11/21 week:
-15-11-21-added a 3d trees map and charts map to dashboard and build that file, connected to kiran sir for solving issues.
-16-11-21-connected to balraj sir and started learning arcgis api for python.
-17-11-21-learned basics of pandas and explained some concepts to trainees
-18-11-21-learned basics of numpy and cleared some doubts of trainees.
-19-11-21-learned data engineering concepts in arcgis api for python.
-20-11-21-watched some tutorials of data engineering and read an article sent by balraj sir.
+25-11-2021 learn the react-concepts(class component,function component,spread operator)
 
-work status from 22/11/21-26/11/21 week:
-22-11-21-learned spatially enabled data frames of arcgis api for python.
-23-11-21-made some sample webmaps and feature layers in organization arcgis account. 
-24-11-21-and connected to those maps programatically and extracted data frames from tables of feature layers.
-25-11-21-added functionality to create admin users in super admin and also now super admin can approve admin users as well as admin can approve dashboard users.
-26-11-21-made some changes to application as requested by balraj sir. and connected with balraj sir and kiran sir for deploying application.
+26-11-2021 learn the react( simple app creat in the react,learning import and export)
 
-work status from 29/11/21-04/12/21 week:
-29-11-21-added functionality to dynamically change bg-color for all three roles and added default routes for all three roles. 
-30-11-21-implemented grouping of functionalities at serverside and database and took interview for three people.
-01-12-21-changed ui for list of functionalities at dashboard, admin and super admin and took interview for two people.
-02-12-21-connected with balraj sir and discussed few things realted to gis and implemented drag and drop layers in dashboard.
-03-12-21-added login form for arcgis online at dashboard and changed ui of map config. 
-04-12-21-connected to arcgis online account programatically and added portal items to dashboard, added logout functionality to dashboard.
+
+
+
+29-11-2021(monday) to 4-11-2021(saturday)
+
+
+29-11-2021 learn the "styling in react" and "communicating with props in components" 
+
+30-11-2021 (naveen sir give task) create the form using html,css 
+
+1-11-2021  create form with css styling
+
+2-11-2021  learn the "useHook","this.state" in react
+
+3-11-2021  working on task simple todo list app
+
+4-11-2021  learn the "this" using in classcomponet 
