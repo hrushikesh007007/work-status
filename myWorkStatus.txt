@@ -40,3 +40,11 @@ work status from 22/11/21-26/11/21 week:
 24-11-21-and connected to those maps programatically and extracted data frames from tables of feature layers.
 25-11-21-added functionality to create admin users in super admin and also now super admin can approve admin users as well as admin can approve dashboard users.
 26-11-21-made some changes to application as requested by balraj sir. and connected with balraj sir and kiran sir for deploying application.
+
+work status from 29/11/21-04/12/21 week:
+29-11-21-added functionality to dynamically change bg-color for all three roles and added default routes for all three roles. 
+30-11-21-implemented grouping of functionalities at serverside and database and took interview for three people.
+01-12-21-changed ui for list of functionalities at dashboard, admin and super admin and took interview for two people.
+02-12-21-connected with balraj sir and discussed few things realted to gis and implemented drag and drop layers in dashboard.
+03-12-21-added login form for arcgis online at dashboard and changed ui of map config. 
+04-12-21-connected to arcgis online account programatically and added portal items to dashboard, added logout functionality to dashboard.
