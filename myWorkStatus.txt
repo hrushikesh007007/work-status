@@ -48,3 +48,18 @@ work status from 29/11/21-04/12/21 week:
 02-12-21-connected with balraj sir and discussed few things realted to gis and implemented drag and drop layers in dashboard.
 03-12-21-added login form for arcgis online at dashboard and changed ui of map config. 
 04-12-21-connected to arcgis online account programatically and added portal items to dashboard, added logout functionality to dashboard.
+
+work status from 06/12/21-10/12/21 week:
+06-12-21-added few tables in psql for dynamic content for admins.
+07-12-21-refactored backend services based on client id.
+08-12-21-refactored frontend api calls and changed code based on added tables.
+09-12-21-connected with balraj sir, discussed some changes. added widgets in dashboard.
+10-12-21-connected with balraj sir, build the code and pushed to github. and created two repos in github and added code to it. 
+
+work status from 13/12/21-18/12/21 week:
+13-12-21-added extra column for all tables for soft deleting. and added code for editing teams.
+14-12-21-
+15-12-21-
+16-12-21
+17-12-21-
+18-12-21-
