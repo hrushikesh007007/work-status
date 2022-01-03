@@ -58,8 +58,25 @@ work status from 06/12/21-10/12/21 week:
 
 work status from 13/12/21-18/12/21 week:
 13-12-21-added extra column for all tables for soft deleting. and added code for editing teams.
-14-12-21-
-15-12-21-
-16-12-21
-17-12-21-
-18-12-21-
+14-12-21-added editing functionality for users in admin.
+15-12-21-added editing functionality for clients and sectors in super admin.
+16-12-21-added delete functionality for clents and sectors in super admin.
+17-12-21-added edit functionality and delete functionality for admin users in super admin.
+18-12-21-changed sidebar ui in all admin,super admin and dashboard.
+
+work status from 20/12/21-24/12/21 week:
+20-12-21-added functionality for test routes in node js.
+21-12-21-added code in front end for chart.
+22-12-21-continued chart functionality design changed ui as per balraj sir instructions.
+23-12-21-added switching functionality for charts to toggle charts.
+24-12-21-and changed ui for widgets in sidebar, and added table to assign charts to roles.
+
+work status from 27/12/21-31/12/21 week:
+27-12-21-learned aws sdk for uploading files to s3 bucket, and written sample code in codesandbox.
+28-12-21-added uploading functionality at backend and added respective tables for uploading profile pics.
+29-12-21-added uploading functionality at frontend for uploading profile pics,
+30-12-21-added uploading functionality at frontend and backend for changing banner for admins and dashboards.
+31-12-21-added editing functionality for changing banner created build file, connected with balraj sir and uploaded to aws.
+
+work status from 03/01/22-08/01/22 week:
+03-01-22-connected with balraj sir and added environment variables in aws for node js code. and prepred task for santosh.
