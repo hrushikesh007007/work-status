@@ -17,11 +17,40 @@
 
 30-11-2021 (naveen sir give task) create the form using html,css 
 
-1-11-2021  create form with css styling
+1-12-2021  create form with css styling
 
-2-11-2021  learn the "useHook","this.state" in react
+2-12-2021  learn the "useHook","this.state" in react
 
-3-11-2021  working on task simple todo list app
+3-12-2021  working on task simple todo list app
 
-4-11-2021  learn the "this" using in classcomponet 
+4-12-2021  learn the "this" using in classcomponet 
+
+
+
+6-12-2021(monday) to 10-12-2021(friday)
+
+6-12-2021 to 7-12-2021  --> css and bootstrap responsiveness web pages creation
+
+8-12-2021 to 9-12-2021 -->UseEffect Hook concepts and methods in react
+
+10-12-2021 -->reactstrap and bootstrap using contact page creation 
+
+
+13-12-2021(monday) to 18-12-2021(saturday)
+
+13-12-2021 to 18-12-2021  --> CRUD operations on react app(post,put,get,update,delete) methods using axious,await in function
+
+16-12-2021 --> take leave
+
+20-12-2021(monday) to 24-12-2021(friday)
+
+20-12-2021 to 21-12-2021  -->UseReff hook in react 
+
+22-12-2021 to 24-12-2021   -->creation of toast message in html,css
+
+27-12-2021(monday) to 31-12-2021(friday)
+
+27-12-2021 to 30-12-2021  -->skeleton loaders creation using react 
+
+31-12-2021  -->NWIS FORMS CREATION
 
