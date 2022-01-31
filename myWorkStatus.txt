@@ -80,3 +80,31 @@ work status from 27/12/21-31/12/21 week:
 
 work status from 03/01/22-08/01/22 week:
 03-01-22-connected with balraj sir and added environment variables in aws for node js code. and prepred task for santosh.
+04-01-22-integrated 'opus capita file manager' react module at admin side of front end code.
+05-01-22-developed code for file manager at the backend to save files in a folder which exits in node api folder.
+06-01-22-(went to hospital,worked only for 3hrs in night): connected with balraj sir, tested the functionality and decided to make changes in file manager code as that was not efficient to save files at node api folder.    
+07-01-22-removed 3rd party module and started developing file manager module on my own as instructed by balraj sir.
+08-01-22-leave
+
+work status from 10/01/22-12/01/22 week:
+10-01-22-leave
+11-01-22-leave
+12-01-22-leave
+
+work status from 17/01/22-21/01/22 week:
+17-01-22-designed backend architecture and created folders and files table at postgres, and added required code of aws sdk to store files on s3 bucket.
+18-01-22-connected with sampath and discussed tasks given previously and clarified doubts,connected with balraj sir and discussed the backend architecture of file manager module, studied aws sdk documentation for the requirement.
+19-01-22-written services at backend for division of files and quering them. similarly for folders.
+20-01-22-tested the services in postman and started developing code at frontend. added folder creation functionality.  
+21-01-22-added files creation functionality and moved previously written file upload code to modal. and changed some ui of it.
+
+work status from 24/01/22-29/01/22 week:
+24-01-22-connected with balraj sir and discussed integration of experience builder at admin side and merged the experience builder developer edition server code to node js code
+25-01-22-integrated the server side rendered code to react application by using iframe.
+26-01-22-created form for one time configuration of their arcgis account to expeirence builder and added previosuly built query features widget to experience builder.
+27-01-22-connected with balraj sir discussed how to query the experiences made by admins. and studied experience builder server side code.
+28-01-22-queried the experiences made by admins and added the functionality to allocate it to roles.
+29-01-22-studied experience builder documentation and displayed the respective experience to dashboard users by using iframe.
+
+work status from 31/01/22-05/01/22 week:
+31-01-22-connected with balraj sir and added functionality at super admin side to display client name of admins and similarly role name of dashboard users at admin side. updated respective service at backend. and solved a bug raised by balraj sir in gis map.
